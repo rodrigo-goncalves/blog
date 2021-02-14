@@ -22,10 +22,10 @@ title: Rodrigo's Blog
 email: blog@rodrigogoncalves.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
  Blog written by Rodrigo Gonçalves about technology and electronics projects
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: smolvis
-github_username:  rodrig_goncalves
+github_username:  rodrigo-goncalves
 
 # Build settings
 theme: minima
